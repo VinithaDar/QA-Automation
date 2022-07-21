@@ -14,7 +14,5 @@ public class CustomizedWait {
 		
 		driver.get("https://www.amazon.com/");
 		//waitForPageLoad(10);
-
-	}
-	
+     }
 }
